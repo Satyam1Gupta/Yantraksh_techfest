@@ -16,7 +16,7 @@ const Hero = () => {
           </div>
 
           <div>
-            <h1 className={`${styles.heroHeadText} text-white`}>AUS | <span className='text-[#915eff]'>YANTRAKSH</span></h1>
+            <h1 className={`${styles.heroHeadText} text-white`}>SOT | <span className='text-[#915eff]'>YANTRAKSH</span></h1>
             <p className={`${styles.heroSubText} mt-2 text-white-100`}>Festival of 
             <br className='sm:block hidden' />
             Innovation, Creativity and Technology</p>
